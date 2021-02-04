@@ -5,3 +5,5 @@ for(let i =0;i<9; i++){
 console.log(num)
 '这是branch2的修改'
 '这是master的修改'
+'在branch2中修改'
+'在branch2中修改，增加两行'
