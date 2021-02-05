@@ -9,3 +9,5 @@ for(let i =0;i<9; i++){
 '第二次修改'
 'master中修改test'
 'master修改'
+'stash'
+'ss'
